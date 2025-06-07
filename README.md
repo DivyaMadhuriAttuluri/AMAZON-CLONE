@@ -1,0 +1,2 @@
+# AMAZON-CLONE
+AMAZON CLONE using HTML 5 and Tailwind CSS
